@@ -1,0 +1,12 @@
+*** Starting uWSGI 2.0.10 (64bit) on [Wed Jun 17 12:34:34 2015] ***
+compiled with version: 4.8.2 on 17 June 2015 10:07:23
+os: Linux-3.16.0-34-generic #47~14.04.1-Ubuntu SMP Fri Apr 10 17:49:16 UTC 2015
+nodename: itstar-office
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /etc/uwsgi/apps-available
+detected binary path: /usr/local/bin/uwsgi
+chdir() to /home/itsatr/workspace/sample_app
+chdir(): No such file or directory [core/uwsgi.c line 2556]
